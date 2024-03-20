@@ -5,6 +5,10 @@ a simple collection of interesting GitHub repositories
 
 - https://github.com/ringo/ringojs -- multi-threaded server-side JavaScript with the JVM
 
+### Haskell
+
+- https://github.com/github/semantic
+
 ### Websites
 
 - https://github.com/github/choosealicense.com
